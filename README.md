@@ -1,6 +1,6 @@
 <!-- Add your banner image here -->
 <p align="center">
-  <img src="github-header-image.png" alt="Banner Image" />
+  <img src="github-header-image (1).png" alt="Banner Image" />
 </p>
 
 
