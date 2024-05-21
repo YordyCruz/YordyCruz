@@ -1,6 +1,12 @@
+<!-- Add your banner image here -->
+<p align="center">
+  <img src="github-header-image.png" alt="Banner Image" />
+</p>
+
+
 # Hi there 👋, I'm Yordy Cruz Vasquez!
 
-I have a Bachelor of Science in Engineering with a focus on Computer Science. Over the past few years, I’ve gained hands-on experience with various programming languages such as C++, Java, Python, and C#. I’ve worked on projects ranging from game development using Unity to developing a compiler for a Java subset called Espresso. I’ve also had the opportunity to work as an IT intern where I troubleshooted computer issues and managed inventory for essential items. My passion for technology drives me to continuously learn and take on new challenges, which is why I’m excited about the opportunities in IT
+I have a Bachelor of Science in Engineering with a focus on Computer Science. Over the past few years, I’ve gained hands-on experience with various programming languages such as C++, Java, Python, and C#. I’ve worked on projects ranging from game development using Unity to developing a compiler for a Java subset called Espresso. I’ve also had the opportunity to work as an IT intern where I troubleshooted computer issues and managed inventory for essential items. My passion for technology drives me to continuously learn and take on new challenges, which is why I’m excited about the opportunities in IT.
 
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
@@ -22,7 +28,7 @@ I have a Bachelor of Science in Engineering with a focus on Computer Science. Ov
 - Developed a compiler for Espresso, a Java subset, capable of executing on the Java Virtual Machine (JVM) or an alternative Espresso Virtual Machine (EVM).
 - Technologies Used: Java, JFlex, Java CUP, Jasmin Assembler.
 - Successfully created a fully functional compiler for Espresso.
-- **[Project Link](https://github.com/YordyCruz/Espresso-Compiler)**
+
 
 ## 📊 GitHub Stats
 ![Yordy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YordyCruz&show_icons=true&theme=radical)
