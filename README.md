@@ -36,6 +36,9 @@ I have a Bachelor of Science in Engineering with a focus on Computer Science. Ov
 ## 📚 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YordyCruz&layout=compact&theme=radical)
 
+[![Yordy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YordyCruz)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🏆 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YordyCruz&theme=radical)
 
