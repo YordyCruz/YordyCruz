@@ -34,7 +34,12 @@ I have a Bachelor of Science in Engineering with a focus on Computer Science. Ov
 ![Yordy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YordyCruz&show_icons=true&theme=radical)
 
 ## 📚 Top Languages
-
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
 ## 🏆 GitHub Streak
