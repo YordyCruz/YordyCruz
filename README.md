@@ -1,4 +1,4 @@
-<!-- Add your banner image here -->
+<!-- Banner image here -->
 <p align="center">
   <img src="github-header-image (1).png" alt="Banner Image" />
 </p>
