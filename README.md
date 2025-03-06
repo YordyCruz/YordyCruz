@@ -29,6 +29,12 @@ I have a Bachelor of Science in Engineering with a focus on Computer Science. Ov
 - Technologies Used: Java, JFlex, Java CUP, Jasmin Assembler.
 - Successfully created a fully functional compiler for Espresso.
 
+### Landscape Website (Work in Progress)
+
+This repository contains the code for a custom website for a landscaping business. I'm currently building a responsive, modern site to showcase landscaping services, before/after galleries, and more.
+[Live Demo](https://yordycruz.github.io/RedstoneLandscape/#home)
+
+
 
 ## 📊 GitHub Stats
 ![Yordy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YordyCruz&show_icons=true&theme=radical)
