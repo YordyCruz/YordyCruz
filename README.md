@@ -1,55 +1,69 @@
-<!-- Banner image here -->
+<!-- Banner -->
 <p align="center">
-  <img src="github-header-image (1).png" alt="Banner Image" />
+  <img src="github-header-image (1).png" alt="Banner" width="100%"/>
 </p>
 
+<!-- Profile -->
+<h1 align="center">👋 Hello, I'm Yordy Cruz</h1>
+<h3 align="center">🚀 Computer Science Graduate | 💻 Full-Stack Developer | 🎮 Game Enthusiast</h3>
 
-# Hi there 👋, I'm Yordy Cruz Vasquez!
+<!-- Tech Stack -->
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-I have a Bachelor of Science in Engineering with a focus on Computer Science. Over the past few years, I’ve gained hands-on experience with various programming languages such as C++, Java, Python, and C#. I’ve worked on projects ranging from game development using Unity to developing a compiler for a Java subset called Espresso. I’ve also had the opportunity to work as an IT intern where I troubleshooted computer issues and managed inventory for essential items. My passion for technology drives me to continuously learn and take on new challenges, which is why I’m excited about the opportunities in IT.
+<!-- Projects -->
+## 🌟 Featured Projects
 
-## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-333?style=flat&logo=microsoft-office)
+### 🎮 2D Roguelike Game | Unity | C#
+[![GitHub Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UNLV-CS472-672/2024-S-GROUP2-2DRove)
+- **Team Collaboration:** Contributed to a 10-member team developing a 2D roguelike game
+- **Key Contributions:** Mob design, prefab creation, animation implementation
+- **Tech Used:** Unity Engine, C#, A* Pathfinding
 
-## 🚀 Projects
+### ☕ Espresso Virtual Machine | Java | Compiler Design
+[![GitHub Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo-link)
+- **Compiler Development:** Built compiler for Java subset (Espresso) targeting JVM
+- **Tech Stack:** JFlex, Java CUP, Jasmin Assembler
+- **Achievement:** Implemented full compiler pipeline from parsing to bytecode generation
 
-### 2D Roguelike Video Game Development (Unity, C#)
-- Contributed to a team of 10 students in the development of a 2D roguelike video game using Unity.
-- Responsibilities included creating mobs, prefabs, animations, and assisting with mobs-specific code.
-- **[Project Link](https://github.com/UNLV-CS472-672/2024-S-GROUP2-2DRove)**
+### 🌿 Landscape Website (WIP) | HTML/CSS/JS
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4BC34B?style=for-the-badge&logo=vercel&logoColor=white)](https://yordycruz.github.io/RedstoneLandscape/#home)
+- **Modern Design:** Responsive layout with interactive elements
+- **Features:** Service showcase, gallery, contact form
+- **Tech Used:** Bootstrap, CSS Animations, Google Maps API
 
-### Espresso Virtual Machine
-- Developed a compiler for Espresso, a Java subset, capable of executing on the Java Virtual Machine (JVM) or an alternative Espresso Virtual Machine (EVM).
-- Technologies Used: Java, JFlex, Java CUP, Jasmin Assembler.
-- Successfully created a fully functional compiler for Espresso.
+<!-- GitHub Stats -->
+## 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YordyCruz&show_icons=true&theme=radical" alt="Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YordyCruz&layout=compact&theme=radical" alt="Top Langs" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YordyCruz&theme=radical" alt="Streak" width="60%"/>
+</p>
 
-### Landscape Website (Work in Progress)
+<!-- Contact -->
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yordy-cruz-4757842b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yordycruz0329@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yordycruz.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-This repository contains the code for a custom website for a landscaping business. I'm currently building a responsive, modern site to showcase landscaping services, before/after galleries, and more.
-[Live Demo](https://yordycruz.github.io/RedstoneLandscape/#home)
-
-
-
-## 📊 GitHub Stats
-![Yordy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YordyCruz&show_icons=true&theme=radical)
-
-## 📚 Top Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-
-## 🏆 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YordyCruz&theme=radical)
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/yordy-cruz-4757842b3/)
+<!-- Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YordyCruz&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
